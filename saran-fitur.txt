@@ -7,8 +7,7 @@ Fitur-fitur yang ada:
   * Wajib mengisi E-Mail
   * E-Mail harus jelas
 - Melihat quality point setiap member
-  * Setiap member dapat mendapat 1 quality point dari 1 Like
-  * Member dengan quality point terbanyak akan mendapat uang
-- Membuat tampilan sebagus mungkin
-  * Gunakan tailwind untuk menghias
- 
+  * Setiap member memiliki 2 quality poin dari 1 Like
+  * Yang memiliki quality point terbanyak akan mendapat hadiah
+- Buat tampilan sebagus mungkin
+  * Gunakan Bootstrap
