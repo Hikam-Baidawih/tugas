@@ -2,6 +2,10 @@ Fitur-fitur yang ada:
 - Melihat jumlah member
   * Melihat username
   * Melihat password
+    ^Password harus dihashing
 - Menambahkan member
   * Wajib mengisi E-Mail
 - Melihat quality point setiap member
+  * Setiap member memiliki 2 quality poin dari 1 Like
+  * Yang memiliki quality point terbanyak akan mendapat hadiah
+- Buat tampilan sebagus mungkin
