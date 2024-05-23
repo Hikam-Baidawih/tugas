@@ -1,0 +1,4 @@
+Fitur-fitur yang ada:
+- Melihat jumlah member
+- Menambahkan member
+- Melihat quality point setiap member
