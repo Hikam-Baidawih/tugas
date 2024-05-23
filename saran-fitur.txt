@@ -9,3 +9,4 @@ Fitur-fitur yang ada:
   * Setiap member memiliki 2 quality poin dari 1 Like
   * Yang memiliki quality point terbanyak akan mendapat hadiah
 - Buat tampilan sebagus mungkin
+  * Gunakan Bootstrap
