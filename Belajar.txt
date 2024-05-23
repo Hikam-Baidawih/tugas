@@ -1,5 +1,6 @@
 Yang sudah dipelajari
+- Belajar dari WPU 
 - Membuat file
 - Mengecek histori
-- Mencommit file
 - Melihat branch
+
