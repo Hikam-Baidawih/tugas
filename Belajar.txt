@@ -2,3 +2,4 @@ Yang sudah dipelajari
 - Membuat file
 - Mengecek histori
 - Mencommit file
+- Melihat branch
