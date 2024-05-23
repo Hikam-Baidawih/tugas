@@ -11,3 +11,4 @@ Fitur-fitur yang ada:
   * Yang memiliki quality point terbanyak akan mendapat hadiah
 - Buat tampilan sebagus mungkin
   * Gunakan Bootstrap
+  * jangan gunakan javascript
