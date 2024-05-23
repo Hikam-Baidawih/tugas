@@ -1,4 +1,7 @@
 Fitur-fitur yang ada:
 - Melihat jumlah member
+  * Melihat username
+  * Melihat password
 - Menambahkan member
+  * Wajib mengisi E-Mail
 - Melihat quality point setiap member
